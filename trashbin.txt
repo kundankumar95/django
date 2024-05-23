@@ -1,0 +1,3 @@
+
+     path('login/',models.student_info)
+ 
